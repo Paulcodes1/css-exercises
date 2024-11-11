@@ -1,0 +1,13 @@
+.btn, .cta {
+    font-family: Helvetical, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.btn {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.cta {
+    background-color: #ffff00;
+}
